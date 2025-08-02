@@ -1,0 +1,108 @@
+code,description
+1111.01,Elected Official; Union Government
+1111.02,Elected Official; State Government
+1111.03,Elected Official; Local Bodies
+1111.99,Legislators; Other
+1112.01,Administrative Official; Union Government
+1112.02,Diplomat
+1112.03,Executive Officials; Union Government
+1112.04,Administrative Official; State Government
+1112.05,Executive Official; State Government
+1112.06,Administrative and Executive Officials; Quasi Government (Central)
+1112.07,Administrative & Executive Officials; Quasi Government (State)
+1112.08,Administrative and Executive Officials; Local Bodies
+1112.99,Senior Government Officials; Other
+1114.01,Political Worker
+1114.02,Senior Officials of Employers; Workers and Other Economic Interest Organizations
+1114.03,Director; Disaster Management Services
+1114.99,Senior Officials of Special Interest Organizations; Other
+1120.01,Working Proprietor; Electricity
+1120.02,Working Proprietor; Gas
+1120.03,Working Proprietor; Water Supply
+1120.04,Director; Electricity
+1120.05,Director; Gas
+1120.06,Director; Water Supply
+1120.07,Director; Bank
+1120.08,Director; Insurance
+1120.09,Working Proprietor; Mines/Proprietor; Mines
+1120.1,Working Proprietor; Quarry/Proprietor; Quarry
+1120.11,Working Proprietor; Well Drilling/Proprietor; Well Drilling
+1120.12,Working Proprietor; Construction/Proprietor; Construction
+1120.13,Director; Construction
+1120.14,Director; Mines
+1120.15,Director; Quarry
+1120.16,Director; Well Drilling
+1120.17,Working Proprietor; Manufacturing/Proprietor; Manufacturing
+1120.18,Director Manufacturing
+1120.19,Working Proprietor; Wholesale Trade/Proprietor; Wholesale Trade
+1120.2,Working Proprietor; Retail Trade/Proprietor; Retail Trade
+1120.21,Director; Wholesale Trade
+1120.22,Director; Retail Trade
+1120.23,Working Proprietor; Transport
+1120.24,Director; Transport
+1120.25,Director; Communication
+1120.26,Director; Airport
+1120.27,Working Proprietor; Storage and Warehousing
+1120.28,Director; Storage and Warehousing
+1120.29,Working Proprietor; Lodging and Catering Services
+1120.3,Director; Lodging and Catering Services/Director Food and Beverage Service
+1120.31,Executive Chef
+1120.32,Working Proprietor; Recreation and Entertainment
+1120.33,Director; Recreation and Entertainment
+1120.34,Station Director; Radio/TV
+1120.3401,Account Director (Advertising Agency)
+1120.3402,Sales Director (Media Org)
+1120.35,Working Proprietor; Other Services
+1120.36,Director; Other Services
+1120.37,Director; Museum/Zoo
+1120.38,Chief Librarian
+1120.39,Principal; College
+1120.99,Managing Directors and Chief Executives; Others
+1211.01,General Manager; Bank
+1211.02,General Manager; Insurance
+1211.03,Purser; Ship
+1211.99,Finance Managers; Others
+1212.01,Personnel Manager
+1212.99,Personnel and Industrial Relations Managers
+1213.01,Manager; Automotive Service
+1213.0101,Quality Assurance Standards In-Charge
+1213.0102,Manager – Customer Quality
+1213.02,Manager; Automotive Service Station
+1213.0201,Area Service Manager
+1213.0202,Territory Service Manager
+1213.99,Managers; Other Services
+1219.01,Manager; Import and Export
+1219.0101,Export Manager
+1219.02,Manager; Health Club/Fitness Club/Gym
+1221.01,Sales Manager (Wholesale Trade)
+1221.02,Sales Manager (Retail Trade)
+1221.0301,Home Delivery Manager
+1221.0401,Territory Sales Manager (Broadband)
+1221.0501,Territory Sales Manager (Prepaid)
+1221.0601,Sales Co-Ordinator (Media Org)
+1221.0602,Sales Manager (Media Org)
+1221.99,Sales and Marketing Managers; Other
+1222.01,Manager; Advertising and Promotion
+1222.0102,Advertising Operations Co-Ordinator (Digital)
+1222.02,Manager; Fashion/Fashion Manager
+1222.99,Advertising and Public Relations Department Managers; Others
+1223.0101,Manager Testing Facility
+1223.0102,Manager Material Testing
+1223.0201,Research Associate
+1311.01,General Manager; Plantation
+1311.02,General Manager; Horticulture
+1311.03,General Manager; Agricultural Farm
+1311.04,General Manager; Livestock Farm
+1311.05,General Manager; Dairy Farm
+1311.06,General Manager; Poultry
+1311.07,Manager; Agricultural Farm
+1311.08,Manager; Plantation
+1311.09,Manager; Nursery
+1311.0901,Rubber Nursery Manager
+1311.1,Manager; Aerial Planting and Cultivation
+1311.11,Manager; Orchard
+1311.12,Manager; Horticulture Farm
+1311.13,Manager; Livestock Farm
+1311.14,Manager; Dairy Farm
+1311.15,Manager; Poultry Farm
+1311.99,Agricultural and Forestry Production Managers; Others
